@@ -1,0 +1,9 @@
+p{
+    color: #000;
+    /* background-color: #ded; */
+    /* background-color: rgb(red, rgb(53, 173, 53), blue)*/
+    /* background-color: rgba(0,0,0,0.2); */
+    /* HSL (HUE,SATURATION,LIGHTNESS */
+    background-color: hsl(90deg,60%,70%,0.6);
+    /* 0.2 in the last shows the obesity */
+}
